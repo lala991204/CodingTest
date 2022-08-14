@@ -1,4 +1,4 @@
 import time
 start = time.time()
 end = time.time()
-print(start-end)
+print(end-start)

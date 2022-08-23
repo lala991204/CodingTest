@@ -1,4 +1,4 @@
-# We share the code regarding the practice of the Conding Test.
+# I share the code regarding the practice of the Conding Test.
 # My goal is to pass any coding test.
 # It's important to compare my answer to correct answer because my answer, which seem to be the correct answer, may be wrong.
 # If you have a question, please give us contact below.
